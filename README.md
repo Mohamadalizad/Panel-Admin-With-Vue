@@ -1,5 +1,6 @@
 This is a [vue.js](https://vuejs.org/) project bootstrapped with [`create-vue-app`]([https://cli.vuejs.org/guide/creating-a-project.html]).
-link : [My panel admin site](https://charming-engelbart-zhojl0qjk.liara.run)
+<br>
+`link my panel admin and you can see it: ` : [panel admin](https://charming-engelbart-zhojl0qjk.liara.run)
 
 ## Getting Started
 
